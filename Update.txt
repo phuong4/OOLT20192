@@ -1,0 +1,7 @@
+- Thay đổi của project sau khi thuyết trình: thêm chức năng record lại các nước đi của người chơi.
+Mô tả: Khi player đang chơi, có thể click button "Record" để xem lại các nước mà player đã đi trong game đó (kể cả khi ván đấu chưa kết thúc). Có thể nhấn "Back" để quay lại ván đấu.
+
+- Tỉ lệ đóng góp của các thành viên trong nhóm:
++ Lê Tuân: 40%
++ Nguyễn Thị Thanh Hoài: 30%
++ Nguyễn Hồng Phương: 30%
